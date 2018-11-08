@@ -1,0 +1,30 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic Chai Mocha setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=text-summary mocha",
+    "posttest": "nyc report --reporter=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RX7RUSS/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Russ Savage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RX7RUSS/chai-mocha-basics"
+  },
+  "homepage": "https://github.com/RX7RUSS/chai-mocha-basics",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "nyc": "^13.1.0",
+    "sinon": "^7.1.1"
+  }
+}
