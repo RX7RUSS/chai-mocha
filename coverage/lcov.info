@@ -1,5 +1,5 @@
 TN:
-SF:/Users/russellsavage/Desktop/ACA/Advanced/Heath/chai-mocha-basics/src/module.js
+SF:/Users/russellsavage/Desktop/ACA/Advanced/Heath/chai-mocha/src/module.js
 FN:5,getRemoteResources
 FNF:1
 FNH:1
@@ -39,7 +39,7 @@ BRF:8
 BRH:7
 end_of_record
 TN:
-SF:/Users/russellsavage/Desktop/ACA/Advanced/Heath/chai-mocha-basics/src/revised-block.js
+SF:/Users/russellsavage/Desktop/ACA/Advanced/Heath/chai-mocha/src/revised-block.js
 FN:4,getRemoteResources
 FN:47,(anonymous_1)
 FNF:2

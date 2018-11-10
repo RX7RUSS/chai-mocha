@@ -1,4 +1,4 @@
-// Tnew tests for revised code
+// New tests for revised code
 
 const mod = require('../src/revised-block')
 const path = require('path')
